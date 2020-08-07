@@ -71,7 +71,7 @@ h1{
   line-height: 2;
 }
 
-@media(max-width: 720px){
+@media(max-width: 1028px){
   body{
     background: url("background_mobile.jpg");
     background-size: cover;
